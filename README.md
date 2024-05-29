@@ -1,0 +1,1 @@
+Homework of COMPSCI260. Contain a lot of unsupervised learning algorithms in python from scratch. Some of the algorithms also have other versions that are used in Speech Recognition or other geneal applictations.
