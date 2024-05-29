@@ -1,0 +1,16 @@
+COMPSCI 260 - Problem Set 1
+
+Name: David L
+NetID: zl303
+
+Estimated total time spent on this problem set, in hours (must be a single integer, but can be your best guess): 20
+Throughout my work on this problem set, I have upheld the Duke Community Standard (yes/no): yes
+
+------------
+
+The above MUST be updated prior to submission in order to receive
+credit for your work (note: the time estimate will not factor into
+your score or class grade in any way; we're just trying to gauge
+the range of times that students spend to complete each problem
+set, which will help us even out any imbalances in the problem
+sets in the future).
